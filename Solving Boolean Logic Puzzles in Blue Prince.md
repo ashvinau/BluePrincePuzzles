@@ -20,9 +20,9 @@ $b_{\text{black}}$ represents the black box<br>
 
 Our **predicates** will use $C$ for contains:
 
-$C(b_{\text{blue}})$ is TRUE if the blue chest contains the gems<br>
-$C(b_{\text{white}})$ is TRUE if the white chest contains the gems<br>
-$C(b_{\text{black}})$ is TRUE if the black chest contains the gems<br>
+$C(b_{\text{blue}})$ is TRUE if the blue box contains the gems<br>
+$C(b_{\text{white}})$ is TRUE if the white box contains the gems<br>
+$C(b_{\text{black}})$ is TRUE if the black box contains the gems<br>
 
 ## Global Rules
 
