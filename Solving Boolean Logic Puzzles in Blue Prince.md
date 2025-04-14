@@ -14,9 +14,9 @@ A **quantifier** is a conditional statement that is $\text{true}$ or $\text{fals
 
 Lets declare some **propositions** for our boxes, using $B$ for boxes:
 
-$b_{\text{blue}}$ represents the blue chest
-$b_{\text{white}}$ represents the white chest
-$b_{\text{black}}$ represents the black chest
+$b_{\text{blue}}$ represents the blue box
+$b_{\text{white}}$ represents the white box
+$b_{\text{black}}$ represents the black box
 
 Our **predicates** will use $C$ for contains:
 
