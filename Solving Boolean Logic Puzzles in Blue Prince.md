@@ -12,7 +12,7 @@ A **predicate** is a conditional statement that is $\text{true}$ or $\text{false
 
 A **quantifier** is a conditional statement that is $\text{true}$ or $\text{false}$ based on the value of multiple **propositions**.
 
-Lets declare some **propositions** for our boxes, using $B$ for boxes:
+Lets declare some **propositions** for our boxes, using $b$ for boxes:
 
 $b_{\text{blue}}$ represents the blue box<br>
 $b_{\text{white}}$ represents the white box<br>
