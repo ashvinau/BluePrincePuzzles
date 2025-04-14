@@ -30,7 +30,8 @@ Lets declare the domain $D=\{b_{\text{blue}},b_{\text{white}},b_{\text{black}}\}
 
 This puzzle has a few global rules:
 
-<img src="/home/ashvinau/Desktop/global-rules.png" style="zoom: 33%;" />
+![Alt text](global-rules.png)
+
 
 1. **There will always be at least one box which displays only true statements**.
 
@@ -58,7 +59,7 @@ We can wrap it all up in one nice expression: $(∃b∈D\ C(b)) \wedge (∃b∈D
 
 Lets call our statements $s$, and our **predicate** will be $P$ which will be TRUE if the box is labeled with a true statement.
 
-<img src="/home/ashvinau/Desktop/blue-box.png" style="zoom:50%;" />
+![Alt text](blue-box.png)
 
 1. The **blue** box states, **"Two of these statements are true."**
 
@@ -66,7 +67,7 @@ We can write this as: $$P(s_{\text{blue}})↔[(P(s_{\text{blue}})∧P(s_{\text{w
 
 But instead, lets just make another **rule** we will call **Two Trues**.
 
-<img src="/home/ashvinau/Desktop/white-box.png" style="zoom:50%;" />
+![Alt text](white-box.png)
 
 2. The **white** box states, **"The statement on the blue box is true."**
 
@@ -76,7 +77,7 @@ Alternatively, the true or false values for $P(s)$ must be the same.
 
 Lets make this another **rule** called **white** $\leftrightarrow$ **blue**.
 
-<img src="/home/ashvinau/Desktop/black-box.png" style="zoom:50%;" />
+![Alt text](black-box.png)
 
 3. The **black** box states, **"The gems are in a box with a true statement."**
 
@@ -110,4 +111,4 @@ We have our final configuration: The **blue** box has a **true** statement, the 
 
 Since the **false** statement on the **black** box is the odd one out, our gems are located within!
 
-<img src="/home/ashvinau/Desktop/gems.png" style="zoom:50%;" />
+![Alt text](gems.png)
