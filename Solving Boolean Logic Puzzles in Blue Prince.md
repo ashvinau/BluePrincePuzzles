@@ -14,15 +14,15 @@ A **quantifier** is a conditional statement that is $\text{true}$ or $\text{fals
 
 Lets declare some **propositions** for our boxes, using $B$ for boxes:
 
-$b_{\text{blue}}$ represents the blue box
-$b_{\text{white}}$ represents the white box
-$b_{\text{black}}$ represents the black box
+$b_{\text{blue}}$ represents the blue box<br>
+$b_{\text{white}}$ represents the white box<br>
+$b_{\text{black}}$ represents the black box<br>
 
 Our **predicates** will use $C$ for contains:
 
-$C(b_{\text{blue}})$ is TRUE if the blue chest contains the gems
-$C(b_{\text{white}})$ is TRUE if the white chest contains the gems
-$C(b_{\text{black}})$ is TRUE if the black chest contains the gems
+$C(b_{\text{blue}})$ is TRUE if the blue chest contains the gems<br>
+$C(b_{\text{white}})$ is TRUE if the white chest contains the gems<br>
+$C(b_{\text{black}})$ is TRUE if the black chest contains the gems<br>
 
 ## Global Rules
 
@@ -31,7 +31,6 @@ Lets declare the domain $D=\{b_{\text{blue}},b_{\text{white}},b_{\text{black}}\}
 This puzzle has a few global rules:
 
 ![Alt text](global-rules.png)
-
 
 1. **There will always be at least one box which displays only true statements**.
 
