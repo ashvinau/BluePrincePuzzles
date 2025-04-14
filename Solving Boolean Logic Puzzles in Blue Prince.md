@@ -102,7 +102,7 @@ That was rough, I know, but we're almost there! Now we need to create a truth ta
 
 Now we simply find the row that passed all our **rules**:
 
-| $P(s_{\text{blue}})$ | $P(s_\text{white})$ | $P(s_\text{black})$ | Global Condition? | Two Trues? | $W \leftrightarrow B$? |
+| $P(s_{\text{blue}})$ | $P(s_\text{white})$ | $P(s_\text{black})$ | Global Condition? | Two Trues? | white $\leftrightarrow$ blue? |
 | -------------------- | ------------------- | ------------------- | ----------------- | ---------- | ---------------------- |
 | T                    | T                   | F                   | Pass              | Pass       | Pass                   |
 
