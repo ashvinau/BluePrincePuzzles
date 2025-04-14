@@ -26,7 +26,7 @@ $C(b_{\text{black}})$ is TRUE if the black chest contains the gems<br>
 
 ## Global Rules
 
-Lets declare the domain $D=\{b_{\text{blue}},b_{\text{white}},b_{\text{black}}\}$ which includes all the boxes as elements. $b$ can be any of the boxes.
+Lets declare the domain $D=\\{b_{\text{blue}},b_{\text{white}},b_{\text{black}}\\}$ which includes all the boxes as elements. $b$ can be any of the boxes.
 
 This puzzle has a few global rules:
 
