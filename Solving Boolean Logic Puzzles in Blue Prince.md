@@ -95,7 +95,7 @@ That was rough, I know, but we're almost there! Now we need to create a truth ta
 | T                    | T                   | F                   | Pass                  | Pass            | Pass                          |
 | T                    | F                   | T                   | Pass                  | Pass            | Fail $F\ne T$                 |
 | T                    | F                   | F                   | Pass                  | Fail - one true | Fail $T\ne F$                 |
-| F                    | T                   | T                   | Pass                  | Pass            | Pass                          |
+| F                    | T                   | T                   | Pass                  | Pass            | Fail                          |
 | F                    | T                   | F                   | Pass                  | Fail- one true  | Fail $T\ne F$                 |
 | F                    | F                   | T                   | Pass                  | Fail- one true  | Pass                          |
 | F                    | F                   | F                   | Fails- no true value  | Fail- none true | Pass                          |
