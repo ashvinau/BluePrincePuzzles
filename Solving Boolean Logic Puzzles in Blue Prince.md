@@ -48,7 +48,7 @@ This reads as "There exists a *box* in the domain $D$ where the proposition *the
 
 3. **Only one box has a prize within. The other 2 are always empty.**
 
-We can express this as the **compound proposition** $b_{\text{blue}} \oplus  b_{\text{white}} \oplus b_{\text{black}}$ where $\oplus$ represents **exclusive or**. 
+We can express this as the **compound proposition** $C(b_{\text{blue}}) \oplus  C(b_{\text{white}}) \oplus C(b_{\text{black}}$) where $\oplus$ represents **exclusive or**. 
 
 ---
 
