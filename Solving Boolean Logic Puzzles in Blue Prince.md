@@ -40,7 +40,7 @@ This reads as "There exists a *box* in the domain $D$ where the proposition *the
 
 Put more simply, **at least one** proposition is true.
 
-2. **There will always be at least one box which displays only true statements**.
+2. **There will always be at least one box which displays only false statements**.
 
 This can be expressed with the **quantifier** $∃b∈D\ \neg C(b)$.
 
