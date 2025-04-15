@@ -80,8 +80,8 @@ Lets make this another **rule** called **white** $\leftrightarrow$ **blue**.
 
 3. The **black** box states, **"The gems are in a box with a true statement."**
 
-This statement concerns the **gems**, as well as the statement, so we need a new **proposition**, $G(b)$ which is true if the box $b$ contains a gem.
-This is written $P(s_{\text{black}})↔[(G(s_{\text{blue}})∧P(s_{\text{blue}}))∨(G(s_{\text{white}})∧P(s_{\text{white}}))∨(G(s_{\text{black}})∧P(s_{\text{black}}))]$
+This statement concerns the **gems**, as well as the statement, so we need to use $C(b)$ again, which is true if the box $b$ contains a gem.
+This is written $P(s_{\text{black}})↔[(C(b_{\text{blue}})∧P(s_{\text{blue}}))∨(C(b_{\text{white}})∧P(s_{\text{white}}))∨(C(b_{\text{black}})∧P(s_{\text{black}}))]$
 
 We don't need a rule here because this if this statement is true, the value of the above proposition will be reflected in the value of $P(s_\text{black})$ since it is equivalent to what is on the right of the proposition. **You may need to make a fourth rule if your statement requires it.**
 
