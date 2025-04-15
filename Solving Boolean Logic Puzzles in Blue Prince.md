@@ -93,10 +93,10 @@ That was rough, I know, but we're almost there! Now we need to create a truth ta
 | -------------------- | ------------------- | ------------------- | --------------------- | --------------- | ----------------------------- |
 | T                    | T                   | T                   | Fails- no false value | Pass            | Pass                          |
 | T                    | T                   | F                   | Pass                  | Pass            | Pass                          |
-| T                    | F                   | T                   | Pass                  | Pass            | Fail $F\ne T$                 |
-| T                    | F                   | F                   | Pass                  | Fail - one true | Fail $F\ne T$                 |
-| F                    | T                   | T                   | Pass                  | Pass            | Fail $T\ne F$                 |
-| F                    | T                   | F                   | Pass                  | Fail- one true  | Fail $T\ne F$                 |
+| T                    | F                   | T                   | Pass                  | Pass            | Fail $T\ne F$                 |
+| T                    | F                   | F                   | Pass                  | Fail - one true | Fail $T\ne F$                 |
+| F                    | T                   | T                   | Pass                  | Pass            | Fail $F\ne T$                 |
+| F                    | T                   | F                   | Pass                  | Fail- one true  | Fail $F\ne T$                 |
 | F                    | F                   | T                   | Pass                  | Fail- one true  | Pass                          |
 | F                    | F                   | F                   | Fails- no true value  | Fail- none true | Pass                          |
 
